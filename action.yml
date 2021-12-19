@@ -3,4 +3,4 @@ description: 'Parse Netlify CMS content structure for next.js applications. Stat
 author: 'KnitKode'
 runs:
   using: 'node12'
-  main: 'dist/index.js'
+  main: 'index.js'
