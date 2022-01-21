@@ -1,6 +1,6 @@
 # kjam-action-next
 
-*Github action* within the **kjam tooling** for [git (github) based headless CMS](https://jamstack.org/headless-cms/) + [`next.js`](https://nextjs.org/) projects.
+*Github action* within the [**`kjam tooling`**](https://github.com/knitkode/kjam) for [git (github) based headless CMS](https://jamstack.org/headless-cms/) + [`next.js`](https://nextjs.org/) projects.
 
 ## Usage
 
